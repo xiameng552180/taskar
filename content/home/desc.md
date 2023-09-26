@@ -2,7 +2,7 @@
 widget: markdown
 widget_id: desc
 headless: true
-weight: 10
+weight: 20
 title: Description
 active: true
 design:
