@@ -4,14 +4,15 @@ cta_note:
 advanced:
   css_class: fullscreen
 widget: hero
+headless: true
+weight: 10
+active: false
 cta:
   url: "#courses"
   label: Explore our courses
   icon_pack: fas
   icon: user-graduate
 widget_id: hero
-headless: true
-weight: 10
 title: Next Generation Task Management
 cta_alt:
   ? url
