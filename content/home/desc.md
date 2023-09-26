@@ -1,5 +1,5 @@
 ---
-widget: markdown
+widget: blank
 widget_id: desc
 headless: true
 weight: 20
