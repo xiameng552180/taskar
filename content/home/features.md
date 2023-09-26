@@ -3,18 +3,18 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: Better task management with
 feature:
-  - icon: chalkboard-teacher
+  - icon: note-sticky
+    icon_pack: fa
+    name: Sticky Notes
+    description: Make use of sticky notes
+  - icon: cube
     icon_pack: fas
-    name: Slides
-    description:
-  - icon: video
+    name: 3D
+    description: Beyond 2D content
+  - icon: magic
     icon_pack: fas
-    name: Video
-    description:
-  - icon: code
-    icon_pack: fas
-    name: Math & Code
-    description:
+    name: Digital
+    description: Fully utilize digital software
 ---
