@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: TaskAR
 subtitle: Next Generation Task Management
-hero_media: imagine.jpg
+hero_media: imagine.png
 active: true
 design:
   columns: "2"
