@@ -1,5 +1,5 @@
 ---
-widget: markdown
+widget: blank
 widget_id: scenarios
 headless: true
 weight: 30
