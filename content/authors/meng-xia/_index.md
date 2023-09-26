@@ -1,6 +1,7 @@
 ---
 title: Meng Xia
-avatar_filename: wechatimg8840.jpeg
+authors:
+  - meng-xia
 social:
   - display:
       header: false
