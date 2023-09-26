@@ -1,5 +1,6 @@
 ---
 widget: featurette
+widget_id: feature
 headless: true
 weight: 20
 title: Features
@@ -17,4 +18,5 @@ feature:
     icon_pack: fas
     name: Digital
     description: Fully utilize digital software
+active: false
 ---
